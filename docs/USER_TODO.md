@@ -26,5 +26,7 @@ Lütfen aşağıdaki adımları tamamladıktan sonra durum kutusunu `[x]` olarak
 ## 3. SUPABASE & ALTYAPI ERİŞİMLERİ
 * [ ] **Supabase Proje Oluşturma:**
   * Bir Supabase projesi oluşturulması ve API anahtarları ile URL bilgisinin `.env.local` dosyasına eklenmesi.
+* [ ] **SQL Şemasının Uygulanması:**
+  * [schema.sql](file:///C:/repo/11_Project_Invite/docs/skills/schema.sql) dosyasındaki SQL kodunun Supabase paneli -> SQL Editor sekmesine yapıştırılarak `RUN` butonuna basılması ve tabloların/RLS kurallarının oluşturulması.
 * [ ] **Domain DNS Ayarları:**
   * SaaS modeli için wildcard subdomain (`*.davetiyem.com`) DNS yönlendirmelerinin CNAME kayıtları ile Vercel'e yapılması.
