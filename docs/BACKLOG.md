@@ -13,7 +13,7 @@ Bu doküman, projedeki tüm işlerin durumunu, öncelik sırasını ve izlenebil
 
 ## 2. ETKİN TİCKET LİSTESİ
 
-### Sprint 2: SaaS WYSIWYG Editör & Zustand (Referans: [PRD](file:///C:/repo/11_Project_Invite/docs/prd/wysiwyg-editor.md) & [TRD](file:///C:/repo/11_Project_Invite/docs/trd/wysiwyg-editor.md))
+### Sprint 2: SaaS WYSIWYG Editör & Zustand (Referans: [PRD](file:///C:/repo/11_Project_Invite/docs/prd/PRD_WYSIWYG.md) & [TRD](file:///C:/repo/11_Project_Invite/docs/trd/TRD_WYSIWYG.md))
 | Ticket ID | Başlık | Rol | Durum | Hedef Sürüm |
 | :--- | :--- | :--- | :--- | :--- |
 | `TCK-201` | Zustand Editör Store (`useEditorStore.js`) Kodlanması | `@arch` | Geliştiriliyor | `v0.2:0` |

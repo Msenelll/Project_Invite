@@ -1,7 +1,7 @@
 # TRD: SaaS WYSIWYG Editörü & Zustand Durum Yönetimi
 **Ticket ID:** TCK-200  
 **Yazar:** `@arch`  
-**Referans PRD:** [PRD: SaaS WYSIWYG Editörü](file:///C:/repo/11_Project_Invite/docs/prd/wysiwyg-editor.md)  
+**Referans PRD:** [PRD: SaaS WYSIWYG Editörü](file:///C:/repo/11_Project_Invite/docs/prd/PRD_WYSIWYG.md)  
 **Durum:** Hazırlanıyor  
 
 ---
